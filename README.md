@@ -68,7 +68,15 @@ These functions are used for various purposes, including data import, data visua
 
 # Project deliverables:
 
+Data comes from `bigquery-public-data.iowa_liquor_sales_forecasting.2020_sales_train`
 
+BigQuery_2020_Iowa_Liquor_Sales_Public_Data_Schema
+
+![BigQuery_2020_Iowa_Liquor_Sales_Public_Data](https://github.com/NollieAnalysis/2020_Iowa_Liquor_Sales_Adair/assets/163913188/8e97162b-00cb-451e-b052-17b801d951aa)
+
+BigQuery_2020_Iowa_Liquor_Sales_Public_Data_Preview
+
+![BigQuery_2020_Iowa_Liquor_Sales_Public_Data_Preview](https://github.com/NollieAnalysis/2020_Iowa_Liquor_Sales_Adair/assets/163913188/4dc01c8a-8212-4399-8f0d-c3195ff0c145)
 
 
 
